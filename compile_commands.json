@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/graphics/Canvas.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/graphics/Canvas.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/graphics/Canvas.cpp",
+  "output": "CMakeFiles/main.dir/src/graphics/Canvas.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/graphics/Sprite.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/graphics/Sprite.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/graphics/Sprite.cpp",
+  "output": "CMakeFiles/main.dir/src/graphics/Sprite.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main/Engine.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main/Engine.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main/Engine.cpp",
+  "output": "CMakeFiles/main.dir/src/main/Engine.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main/Input.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main/Input.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main/Input.cpp",
+  "output": "CMakeFiles/main.dir/src/main/Input.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main/Node.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main/Node.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main/Node.cpp",
+  "output": "CMakeFiles/main.dir/src/main/Node.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main/Scene.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main/Scene.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main/Scene.cpp",
+  "output": "CMakeFiles/main.dir/src/main/Scene.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main/Timer.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main/Timer.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main/Timer.cpp",
+  "output": "CMakeFiles/main.dir/src/main/Timer.cpp.o"
+},
+{
+  "directory": "/home/kraschowetz/Documents/C++/Engine",
+  "command": "/usr/bin/c++  -isystem /usr/include/SDL2  -o CMakeFiles/main.dir/src/main/Vector2.cpp.o -c /home/kraschowetz/Documents/C++/Engine/src/main/Vector2.cpp",
+  "file": "/home/kraschowetz/Documents/C++/Engine/src/main/Vector2.cpp",
+  "output": "CMakeFiles/main.dir/src/main/Vector2.cpp.o"
+}
+]
